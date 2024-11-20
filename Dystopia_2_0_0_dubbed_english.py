@@ -1,7 +1,7 @@
 '''
 Created on 23.09.2018
 
-@author: michaelgress
+@author: michagress
 '''
 
 import time
